@@ -1,0 +1,13 @@
+.imagefill{
+    transform: translateY(-700%);
+    z-index: 1;
+}
+img{
+    height:50%;
+}
+span{
+    margin: 27px 10px;
+}
+.follow{
+    background-color: black;
+}
